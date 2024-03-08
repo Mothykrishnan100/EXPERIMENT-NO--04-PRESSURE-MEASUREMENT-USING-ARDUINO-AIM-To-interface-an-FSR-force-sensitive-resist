@@ -1,9 +1,9 @@
 # EXPERIMENT-NO--03-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resistor
 
-## DATE : 01/03/2024
-## NAME :ROHIT KUMAR M
-## ROLLNUMBER : 212221220045
-## DEPARTMENT : IT
+## DATE : 08/03/2024
+## NAME :Mothy krishnan R D
+## ROLLNUMBER : 212221080051
+## DEPARTMENT : mechanical
 ## AIM: 
 To interface an FSR(force sensitive resistor) and scale the output voltage obtained to pressure applied 
  
@@ -91,9 +91,9 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 ### PROGRAM 
  ```
- 212221220045
- ROHIT KUMAR M
- IT- 3rd YEAR
+ 212221080051
+ MOTHY KRISHNAN R.D
+ MECH- 3rd YEAR
 ```
 
 ```
